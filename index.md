@@ -1,6 +1,6 @@
-# cancellable-task
-
 [<=](..)
+
+# cancellable-task
 
 [Scala 2.11](scala-2.11)
 

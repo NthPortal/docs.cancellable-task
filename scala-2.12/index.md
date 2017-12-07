@@ -1,6 +1,6 @@
-# cancellable-task - Scala 2.12
-
 [<=](..)
+
+# cancellable-task - Scala 2.12
 
 [latest](1.0.0)
 
