@@ -1,4 +1,6 @@
-<head><title>cancellable-task - Scala 2.12</title></head>
+# cancellable-task - Scala 2.12
+
+[<=](..)
 
 [latest](1.0.0)
 
