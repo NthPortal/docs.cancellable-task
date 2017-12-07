@@ -1,4 +1,4 @@
-title: cancellable-task
+<head><title>cancellable-task</title></head>
 
 [Scala 2.11](scala-2.11)
 
